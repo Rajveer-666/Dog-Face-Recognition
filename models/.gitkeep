@@ -1,0 +1,11 @@
+# Drop your model files into this folder.
+# See README.md for the exact expected filenames.
+#
+# Required files:
+#   best_dog_breed_model_convnext.pth
+#   breed_labels.txt
+#   best.pt
+#   Dog_encoder_best.pth
+#   embeddings.npy
+#   labels.npy
+#   idx2class.json
